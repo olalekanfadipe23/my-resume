@@ -191,3 +191,8 @@
     color: #232597;
   }
   
+
+  
+.carousel-inner > .item > img {
+  margin: 0 auto;
+}
